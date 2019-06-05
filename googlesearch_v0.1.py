@@ -16,7 +16,7 @@ Command-line application that does a search.
 __author__ = 'jeffreynghm@gmail.com'
 
  
-key='AIzaSyDnyz4c6o0cWgcVAs2rywGGVq2CXp-9P0A'
+key=‘'
 engine_id = '009533075362033359628:irwpx_urrb0'
 
 
